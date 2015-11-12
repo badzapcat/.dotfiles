@@ -8,7 +8,8 @@ set backspace=indent,eol,start
 set cursorline
 set hidden
 set laststatus=2
-set relativenumber "alternative: set number
+set number
+set relativenumber
 set ruler
 set showcmd
 set scrolloff=5
