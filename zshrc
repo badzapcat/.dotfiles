@@ -79,6 +79,10 @@ export EDITOR='vim'
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
+#Vim support
+bindkey -v
+export KEYTIMEOUT=1
+
 cdl(){
     cd $1
     ls

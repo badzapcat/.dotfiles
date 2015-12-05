@@ -42,8 +42,6 @@ set showmatch
 nnoremap <leader><space> :noh<cr>
 nnoremap <tab> %
 vnoremap <tab> %
-nnoremap / /\v
-vnoremap / /\v
 
 "Long lines
 set wrap
